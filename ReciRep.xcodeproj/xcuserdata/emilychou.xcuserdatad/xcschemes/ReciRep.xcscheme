@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00B31B071DA2E613005D990B"
-               BuildableName = "FoodTracker.app"
-               BlueprintName = "FoodTracker"
-               ReferencedContainer = "container:FoodTracker.xcodeproj">
+               BuildableName = "ReciRep.app"
+               BlueprintName = "ReciRep"
+               ReferencedContainer = "container:ReciRep.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "00B31B071DA2E613005D990B"
-            BuildableName = "FoodTracker.app"
-            BlueprintName = "FoodTracker"
-            ReferencedContainer = "container:FoodTracker.xcodeproj">
+            BuildableName = "ReciRep.app"
+            BlueprintName = "ReciRep"
+            ReferencedContainer = "container:ReciRep.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "00B31B071DA2E613005D990B"
-            BuildableName = "FoodTracker.app"
-            BlueprintName = "FoodTracker"
-            ReferencedContainer = "container:FoodTracker.xcodeproj">
+            BuildableName = "ReciRep.app"
+            BlueprintName = "ReciRep"
+            ReferencedContainer = "container:ReciRep.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "00B31B071DA2E613005D990B"
-            BuildableName = "FoodTracker.app"
-            BlueprintName = "FoodTracker"
-            ReferencedContainer = "container:FoodTracker.xcodeproj">
+            BuildableName = "ReciRep.app"
+            BlueprintName = "ReciRep"
+            ReferencedContainer = "container:ReciRep.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

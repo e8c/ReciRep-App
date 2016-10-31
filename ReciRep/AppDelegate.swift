@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  FoodTracker
+//  ReciRep
 //
 //  Created by Emily Chou on 10/3/16.
 //  Copyright © 2016 Emily Chou. All rights reserved.
