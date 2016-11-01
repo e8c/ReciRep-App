@@ -1,5 +1,5 @@
 # ReciRep-App
-A basic app to display a collection of recipes
+A basic iOS app to display a collection of recipes
 -> To be finalized/implemented:
     - polish design
     - create database of users
